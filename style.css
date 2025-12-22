@@ -103,28 +103,68 @@ input, select {
 /*  ..............................................................................our code  index ........................................       */
 .wrapper{
     height: 660px;
-    width: 1900px;
+    width: 1534px;
      
      
 }
 header{
     height: 130px;
-    width: 1900px;
+    width: 1534px;
     background-color: black;
+     
 }
 section{
-     height: 450px;
-    width: 1900px;
+     height: 550px;
+    width: 1534px;
     background-color: grey;
+     
 
 }
 footer{
     height: 80px;
-    width: 1900px;
+    width: 1534px;
     background-color: black;
+     
+}
+.logo{
+    float: left;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.logo img{
+    padding-left: 50px;
+
 }
 li a
 {
+    color:white;
+    text-decoration: none;
+     
+}
+nav{
+    float: right;
+    word-spacing: 30px;
+    padding: 20px;
+}
+nav li{
+    display:inline-block;
+    line-height: 70px;
+}
+section{
+    background-image: url("images/back_ground.jpeg");
+    background-repeat: no-repeat;      /* stops repetition */
+    background-size: cover;             /* fills the section */
+    background-position: center; 
+ }
+ .box{
     color: white;
+    height: 400px;
+    width: 450px;
+    background-color:#000000b5;
+    margin: 20px auto;
+    opacity: 0.6;
+ }
+.box h1{
+    text-align: center;
 
 }
