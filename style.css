@@ -153,7 +153,7 @@ section .index_section_background{
     background-image: url("images/back_ground.jpeg");
     background-repeat: no-repeat;      /* stops repetition */
     background-size: cover;             /* fills the section */
-    background-position: center; 
+     
     height: 550px;
  }
  .box{
