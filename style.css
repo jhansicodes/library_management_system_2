@@ -140,7 +140,7 @@ li a
     text-decoration: none;
      
 }
-nav{
+/*nav{
     float: right;
     word-spacing: 30px;
     padding: 20px;
@@ -148,7 +148,7 @@ nav{
 nav li{
     display:inline-block;
     line-height: 70px;
-}
+}*/
 section .index_section_background{
     background-image: url("images/back_ground.jpeg");
     background-repeat: no-repeat;      /* stops repetition */
@@ -171,7 +171,7 @@ section .index_section_background{
 }
 /*  ..............................................................................our code style student_login ......................................*/
 section .student_login_section{
-    height: 600px;
+    height: 680px;
     width: 1534px;
     background-color: grey;   
     background-image: url("images/book_image.jpeg");
@@ -196,7 +196,7 @@ input{
 }
 /*  ..............................................................................our code style registration_login ......................................*/
  section .registration_login_section{
-    height: 600px;
+    height: 680px;
     width: 1534px;
     background-color: grey;   
     background-image: url("images/regist.jpeg");
